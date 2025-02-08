@@ -3,7 +3,7 @@
 
 <head>
    <meta charset="UTF-8">
-   <title>テストの平均点を計算しよう</title>
+   <title>連想配列を作ってキーと値を出力しよう</title>
 </head>
 
 <body>
